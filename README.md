@@ -1,8 +1,8 @@
 # Local AI Presentation Agent
 
 A local presentation generator that asks Ollama for a structured slide plan and
-turns that plan into an editable PowerPoint presentation with the Knowledge
-Foundation visual system reconstructed from the supplied PDF template.
+turns that plan into an editable PowerPoint presentation with the
+visual system reconstructed from the supplied PDF template.
 
 ## Requirements
 
