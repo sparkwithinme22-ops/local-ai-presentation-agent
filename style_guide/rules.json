@@ -1,0 +1,38 @@
+{
+  "source": "Knowledge Foundation PDF design template, 24 pages",
+  "slide": {
+    "aspect_ratio": "16:9",
+    "width_inches": 13.333333,
+    "height_inches": 7.5
+  },
+  "colors": {
+    "gold": "#BD9A52",
+    "gold_dark": "#B59351",
+    "magenta": "#DA064D",
+    "black": "#1A171B",
+    "white": "#FFFFFF",
+    "mid_gray": "#A0A0A0",
+    "light_gray": "#ECECEC"
+  },
+  "typography": {
+    "intended_heading": "Helvetica Bold",
+    "intended_body": "Helvetica Light",
+    "body_size_points_in_template_examples": 12,
+    "fallback": "Arial"
+  },
+  "layouts": [
+    "title",
+    "agenda",
+    "content",
+    "section",
+    "quote",
+    "closing"
+  ],
+  "notes": [
+    "Standard slides use an upper-right gold and black brand mark.",
+    "Many standard slides use a subtle lower-left footer and lower-right slide number.",
+    "Gold, black, white, and angled panels dominate the visual system.",
+    "Magenta is reserved for small emphasis elements such as agenda numbers and quotation marks."
+  ]
+}
+
